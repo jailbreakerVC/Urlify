@@ -1,2 +1,2 @@
 # Urlify
-A simple url shortener built with Vue and MonogoDB.
+A simple url shortener built with Vue and MongoDB.
